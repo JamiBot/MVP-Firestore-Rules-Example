@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [MVP Firestore Rules](https://youtu.be/mwbVm3OqhbM).
 
-[![MVP Firestore Rules](https://img.youtube.com/vi/mwbVm3OqhbM/mqdefault.jpg)](https://youtu.be/mwbVm3OqhbM)
+[![MVP Firestore Rules](https://img.youtube.com/vi/mwbVm3OqhbM/maxresdefault.jpg)](https://youtu.be/mwbVm3OqhbM)
 
 A template for a quick way to get secure firestore rules for many simple apps.
 
