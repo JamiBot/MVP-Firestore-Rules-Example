@@ -1,6 +1,6 @@
 # MVP Firestore Rules Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [MVP Firestore Rules](https://youtu.be/mwbVm3OqhbM).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [MVP Firestore Rules](https://youtu.be/mwbVm3OqhbM). It is also avalable on my blog article [MVP Firestore Rules](https://blog.jamibot.com/blog/mvp-firestore-rules).
 
 [![MVP Firestore Rules](https://img.youtube.com/vi/mwbVm3OqhbM/maxresdefault.jpg)](https://youtu.be/mwbVm3OqhbM)
 
