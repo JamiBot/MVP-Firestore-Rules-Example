@@ -1,12 +1,12 @@
 # MVP Firestore Rules Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [MVP Firestore Rules](https://youtu.be/mwbVm3OqhbM) as well as my blog article [MVP Firestore Rules](https://blog.jamibot.com/mvp-firestore-rules).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [MVP Firestore Rules](https://youtu.be/mwbVm3OqhbM) as well as my blog article [MVP Firestore Rules](https://blog.jamibot.com/mvp-firestore-rules).
 
 [![MVP Firestore Rules](https://img.youtube.com/vi/mwbVm3OqhbM/maxresdefault.jpg)](https://youtu.be/mwbVm3OqhbM)
 
 A template for a quick way to get secure firestore rules for many simple apps.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development videos.
 
 ## Installation
 
